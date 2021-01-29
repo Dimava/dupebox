@@ -1,6 +1,7 @@
 #Dupebox
 Duplicate your production and improve UPS with Dupeboxes - multithreaded production buildings
-[![](https://i.imgur.com/aRuA7Vi.gif) watch as mp4 for better quality](https://i.imgur.com/aRuA7Vi.mp4)
+
+
 
 Usage:
   - Use Dupebox Planner item to copy a design
